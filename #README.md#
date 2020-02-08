@@ -24,7 +24,7 @@ If everything worked, you should be able to run `npm start` and then go to `loca
 ### Creating a Shell
 So now let's create a dummy page so that we can deploy it. I found [this](https://www.taniarascia.com/getting-started-with-react/) pretty helpful.
 
-Here were some extra things I needed to install
+Here were some extra things I needed to install (may need to `sudo`)
 ```
 npm install react-router-dom axios
 npm install react-bootstrap bootstrap
